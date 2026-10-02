@@ -16,4 +16,4 @@ bcrypt
 segno
 pillow
 
-librosa
+librosaresemblyzer
